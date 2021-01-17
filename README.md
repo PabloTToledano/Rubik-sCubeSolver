@@ -1,4 +1,4 @@
-# EC1-6 (Grupo)
-Laboratorio de Sistemas Inteligentes
+# EC1-6 (Group)
+Intelligent Systems Project
 
-Implementación de un artefacto software N-Cubo de Rubick
+Rubik's Cube solver using different techniques
